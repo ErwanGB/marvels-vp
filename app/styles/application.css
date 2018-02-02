@@ -1,0 +1,58 @@
+div.HeroMini{
+  margin:10px 0px 0px 10px;
+  padding:5px;
+  background:#ddd;
+  border:solid 1px #bbb;
+  width:200px;
+  float:left;
+}
+
+div.HeroMini:hover{
+  cursor:pointer;
+  background:#bbb
+}
+
+div.HeroMini h2{
+  font-size:14px;
+  height:40px;
+  text-align:center
+}
+
+div.HeroMini img{
+  width:200px;
+  height:200px;
+}
+
+#HeroDetails{
+  width:600px;
+}
+
+#HeroPres img{
+  height:200px;
+  width:200px;
+  margin-right:10px;
+  float:left;
+}
+
+#HeroPres {
+  height:200px
+}
+
+#HeroPres,.HeroList{
+  background:#ccc;
+  margin-bottom:10px;
+  padding:10px;
+}
+
+.HeroList{
+  clear:both
+}
+
+.HeroList h2{
+  font-size:14px;
+}
+
+.HeroList ul{
+  list-style:none
+}
+
